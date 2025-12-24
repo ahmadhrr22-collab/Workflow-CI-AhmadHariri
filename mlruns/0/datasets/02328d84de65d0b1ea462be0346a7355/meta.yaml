@@ -1,0 +1,14 @@
+digest: eea52dc0
+name: dataset
+profile: '{"num_rows": 1945, "num_elements": 19450}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "TransactionAmount", "required":
+  true}, {"type": "long", "name": "TransactionType", "required": true}, {"type": "long",
+  "name": "Location", "required": true}, {"type": "long", "name": "Channel", "required":
+  true}, {"type": "double", "name": "CustomerAge", "required": true}, {"type": "long",
+  "name": "CustomerOccupation", "required": true}, {"type": "double", "name": "TransactionDuration",
+  "required": true}, {"type": "double", "name": "LoginAttempts", "required": true},
+  {"type": "double", "name": "AccountBalance", "required": true}, {"type": "long",
+  "name": "CustomerAge_Bin", "required": true}]}'
+source: '{"tags": {"mlflow.user": "ahmad", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ahmad/Downloads/MSMLProject/Membangun_model/mlruns/0/59362f5c54554d0dbb0466e8440531b8/artifacts
+end_time: 1766597911130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59362f5c54554d0dbb0466e8440531b8
+run_name: Basic_Autolog_Run
+run_uuid: 59362f5c54554d0dbb0466e8440531b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766597896872
+status: 3
+tags: []
+user_id: ahmad
